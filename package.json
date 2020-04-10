@@ -1,0 +1,14 @@
+{
+  "name": "chapter1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "statement.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
